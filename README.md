@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Pablo 👋
 
-<!--
-**itthree-coder/itthree-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me interesa construir software claro, automatizar tareas repetitivas y mejorar la forma en que los equipos entregan sus cambios.
 
-Here are some ideas to get you started:
+## En qué me centro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desarrollo:** código sencillo, mantenible y fácil de revisar.
+- **Automatización:** menos trabajo manual y procesos reproducibles.
+- **Calidad:** cambios pequeños, comprobaciones útiles y documentación práctica.
+- **Colaboración con IA:** definir el objetivo, revisar el resultado y verificar que funciona.
+
+## Mi forma de trabajar
+
+Entender → construir → verificar → mejorar.
+
+---
+
+Esta es mi cuenta de trabajo. Aquí comparto proyectos y contribuciones que se pueden publicar.
